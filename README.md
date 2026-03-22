@@ -150,4 +150,4 @@ O repositório inclui três vídeos de demonstração:
 - **[Bootstrap 5.3](https://getbootstrap.com/)** — Framework CSS responsivo
 - **[PHP](https://www.php.net/)** — Back-end dos módulos de carrinho e contato
 - **[MySQL](https://www.mysql.com/)** — Banco de dados relacional
-- **[XAMPP](https://www.apachefriends.org/)** — Servidor local para execução do MySQL.
+- **[XAMPP](https://www.apachefriends.org/)** — Servidor local para execução do MySQL
